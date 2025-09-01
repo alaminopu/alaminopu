@@ -15,7 +15,7 @@
 
 ### About Me:
 
-Successful engineering leader with 12+ years of experience in building scalable, robust, and high-performant applications.
+Successful engineering leader with 15+ years of experience in building scalable, robust, and high-performant applications.
 
 ### Numbers
 
