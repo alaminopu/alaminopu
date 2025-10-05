@@ -26,7 +26,6 @@ Successful engineering leader with 15+ years of experience in building scalable,
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaminopu&theme=dark" alt="Profile Details" height="160" />
 </div>
 
-<div>
-  <img src="https://streak-stats.demolab.com?user=alaminopu&theme=dark" alt="GitHub Streak" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=alaminopu&theme=dark)](https://git.io/streak-stats)
+
 
