@@ -17,8 +17,13 @@
 
 Successful engineering leader with 15+ years of experience in building scalable, robust, and high-performant applications.
 
-### Numbers
+### Github Stats
 
-![alaminopu's Stats](https://github-readme-stats.vercel.app/api?username=alaminopu&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-
-![alaminopu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alaminopu&theme=darcula&hide_border=true)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alaminopu&theme=dark" alt="Most Commit Language" height="160" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alaminopu&theme=dark" alt="Repos per Language" height="160" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaminopu&theme=dark" alt="Profile Details" height="160" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=alaminopu&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" alt="GitHub Streak" height="160" />
+</div>
