@@ -24,6 +24,9 @@ Successful engineering leader with 15+ years of experience in building scalable,
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alaminopu&theme=dark" alt="Repos per Language" height="160" />
   <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaminopu&theme=dark" alt="Profile Details" height="160" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=alaminopu&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" alt="GitHub Streak" height="160" />
 </div>
+
+<div>
+![alaminopu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alaminopu&theme=dark&hide_border=true)
+</div>
+
