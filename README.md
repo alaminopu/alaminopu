@@ -27,6 +27,6 @@ Successful engineering leader with 15+ years of experience in building scalable,
 </div>
 
 <div>
-  <img src="https://streak-stats.demolab.com?user=alaminopu&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" alt="GitHub Streak" height="160" />
+  <img src="https://streak-stats.demolab.com?user=alaminopu&theme=dark" alt="GitHub Streak" />
 </div>
 
