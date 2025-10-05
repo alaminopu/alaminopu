@@ -19,7 +19,7 @@ Successful engineering leader with 15+ years of experience in building scalable,
 
 ### Github Stats
 
-<div align="center">
+<div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alaminopu&theme=dark" alt="Most Commit Language" height="160" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alaminopu&theme=dark" alt="Repos per Language" height="160" />
   <br/>
